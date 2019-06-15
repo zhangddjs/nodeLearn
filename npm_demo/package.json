@@ -1,0 +1,16 @@
+{
+  "name": "npm_demo",
+  "version": "0.0.1",
+  "description": "测试项目",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zdd",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
